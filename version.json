@@ -1,24 +1,24 @@
 {
-  "version_code": 9,
-  "version_name": "1.0.9",
-  "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.9/androidApp-release.apk",
-  "release_notes": "Nová verzia aplikácie. Dôležité: pred inštaláciou je potrebné odinštalovať starú aplikáciu.",
+  "version_code": 10,
+  "version_name": "1.0.10",
+  "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.10/androidApp-release.apk",
+  "release_notes": "Nová verzia aplikácie. Dôležité: pred inštaláciou je potrebné odinštalovať starú aplikáciu ak ste nespravili pred.",
   "android": {
-    "version_code": 9,
-    "version_name": "1.0.9",
-    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.9/androidApp-release.apk",
+    "version_code": 10,
+    "version_name": "1.0.10",
+    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.10/androidApp-release.apk",
     "release_notes": "Nová verzia aplikácie. Dôležité: pred inštaláciou je potrebné odinštalovať starú aplikáciu."
   },
   "windows": {
-    "version_code": 9,
-    "version_name": "1.0.9",
-    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.9/PrestigeStone-1.0.9.msi",
+    "version_code": 10,
+    "version_name": "1.0.10",
+    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.10/PrestigeStone-1.0.9.msi",
     "release_notes": "Nová verzia aplikácie."
   },
   "macos": {
-    "version_code": 9,
-    "version_name": "1.0.9",
-    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.9/PrestigeStone-1.0.9.dmg",
+    "version_code": 10,
+    "version_name": "1.0.10",
+    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.10/PrestigeStone-1.0.9.dmg",
     "release_notes": "Nová verzia aplikácie. Dôležité: starú aplikáciu je potrebné manuálne odstrániť z priečinka Applications."
   }
 }
