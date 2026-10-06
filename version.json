@@ -1,24 +1,24 @@
 {
-  "version_code": 11,
-  "version_name": "1.0.11",
-  "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.11/androidApp-release.apk",
+  "version_code": 12,
+  "version_name": "1.0.12",
+  "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.12/androidApp-release.apk",
   "release_notes": "Nová verzia aplikácie.",
   "android": {
-    "version_code": 11,
-    "version_name": "1.0.11",
-    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.11/androidApp-release.apk",
+    "version_code": 12,
+    "version_name": "1.0.12",
+    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.12/androidApp-release.apk",
     "release_notes": "Nová verzia aplikácie."
   },
   "windows": {
-    "version_code": 11,
-    "version_name": "1.0.11",
-    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.11/PrestigeStone-1.0.11.msi",
+    "version_code": 12,
+    "version_name": "1.0.12",
+    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.12/PrestigeStone-1.0.12.msi",
     "release_notes": "Nová verzia aplikácie. Pred inštaláciou úplne zatvorte aplikáciu Prestige Stone."
   },
   "macos": {
-    "version_code": 11,
-    "version_name": "1.0.11",
-    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.11/PrestigeStone-1.0.11.dmg",
-    "release_notes": "Nová verzia aplikácie. Starú aplikáciu odstráňte z priečinka Applications."
+    "version_code": 12,
+    "version_name": "1.0.12",
+    "download_url": "https://github.com/PatrikPavel/Prestige-Stone-Releases/releases/download/v1.0.12/PrestigeStone-1.0.12.dmg",
+    "release_notes": "Nová verzia aplikácie."
   }
 }
